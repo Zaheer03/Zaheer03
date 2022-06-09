@@ -1,7 +1,7 @@
 Hi 👋 My name is Zaheer
 =======================
 
-Web Programming
+Frontend Development.
 ---------------
 
 I'm a Student of Mechanical Engineering and I passion in programming  so I'm Currently learning Frontend Development.
