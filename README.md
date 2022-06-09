@@ -4,7 +4,7 @@ Hi 👋 My name is Zaheer
 Web Programming
 ---------------
 
-I'm studying as a mechanical engineering and I'm Currently learning web programming with JavaScript and python
+I'm studying as a Mechanical engineering and I'm Currently learning Web programming with JavaScript and python
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [smohammedzaheer0323@gmail.com](mailto:smohammedzaheer0323@gmail.com)
