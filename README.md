@@ -4,11 +4,11 @@ Hi 👋 My name is Zaheer
 Frontend Development.
 ---------------
 
-I'm a Student of Mechanical Engineering and I passion in programming  so I'm Currently learning Frontend Development.
+I'm a Student of Mechanical Engineering and I passion in programming and Development.so I'm Currently learning Frontend Development.
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [smohammedzaheer0323@gmail.com](mailto:smohammedzaheer0323@gmail.com)
-* 🧠  I'm Currently learning Frondend Development From Frontend Masters
+* 🧠  I'm Currently learning the Frontend development 
 
 ### Skills
 
