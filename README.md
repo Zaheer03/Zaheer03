@@ -1,19 +1,29 @@
-Hi 👋 My name is Zaheer
+Hi 👋 My name is SHAIK MOHAMMED ZAHEER
 =======================
 
-Frontend Development.
+Full-stack-Development.
 ---------------
 
-I'm a Student of Mechanical Engineering and I passion in programming and Development.so I'm Currently learning Frontend Development.
+🚀 Mechanical Engineering Graduate | Certified In Web Design | Future Tech Innovator
+
+Driven by an insatiable curiosity and a passion for pushing boundaries, I'm on a mission to revolutionize the digital landscape. With a solid foundation in mechanical engineering and a growing expertise in full-stack web development, I'm bridging the gap between hardware and software to create groundbreaking solutions.
+
+🔧 Mechanical Engineering: Bringing physical world insights to the digital realm
+🌐 Web Development: Crafting intuitive and powerful user experiences
+🔬 Full-Stack Journey: Continuously expanding my skill set to build complete, scalable applications
+
+Currently honing my skills in [Java /Javascript ], I'm not just learning to code – I'm learning to innovate. My goal? To become a software developer who doesn't just follow trends, but sets them.
+
+Let's connect and build the future together. The code is the limit! 🚀
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [smohammedzaheer0323@gmail.com](mailto:smohammedzaheer0323@gmail.com)
-* 🧠  I'm Currently learning the Frontend development 
+* 🧠  In Process of Full-Stack-Web-Devlopment
 
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -22,7 +32,7 @@ I'm a Student of Mechanical Engineering and I passion in programming and Develop
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Zaheer03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zaheershaikk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Zaheer3_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Zaheer03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/itsmohdzaheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/itsmohdzaheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
