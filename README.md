@@ -1,7 +1,7 @@
 Hi 👋 My name is SHAIK MOHAMMED ZAHEER
 =======================
 
-Progressing To Learn QA | Manual & Automation
+Progress In Learning of QA | Manual & Automation
 ---------------
 
 🚀 Mechanical Engineering Graduate | Certified In Web Design | Future Tech Innovator
