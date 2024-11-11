@@ -10,7 +10,7 @@ Driven by an insatiable curiosity and a passion for pushing boundaries, I'm on a
 
 🔧 Mechanical Engineering: Bringing physical world insights to the digital realm
 🌐 Web Development: Crafting intuitive and powerful user experiences
-🔬 Full-Stack Journey: Continuously expanding my skill set to build complete, scalable applications
+🔬QA MANUAL AND AUTOMATION: Continuously expanding my skill set to build complete, To Deliver scalable applications
 
 Currently honing my skills in [Java /Javascript ], I'm not just learning to code – I'm learning to innovate. My goal? To become a software developer who doesn't just follow trends, but sets them.
 
