@@ -17,7 +17,7 @@ Currently honing my skills in [Java /Javascript ], I'm not just learning to code
 Let's connect and build the future together. The code is the limit! 🚀
 
 * 🌍  I'm based in india
-* ✉️  You can contact me at [smohammedzaheer0323@gmail.com](mailto:smohammedzaheer0323@gmail.com)
+* ✉️  You can contact me at [smohammedzaheer0323@gmail.com](mailto:smohammedzaheer032@gmail.com)
 * 🧠  In Process of Learning QA and Manual & Automation testing
 
 ### Skills
