@@ -6,13 +6,12 @@ Progress In Learning of Full Stack Devlopment
 
 🚀 Mechanical Engineering Graduate | Certified In Web Design | Future Tech Innovator
 
-Driven by an insatiable curiosity and a passion for pushing boundaries, I'm on a mission to revolutionize the digital landscape. With a solid foundation in mechanical engineering and a growing expertise in full-stack web development, I'm bridging the gap between hardware and software to create groundbreaking solutions.
+Driven by an insatiable curiosity and a passion for pushing boundaries, I'm on a mission to revolutionize the digital landscape. With a solid foundation in growing expertise in Full-Stack  Development, I'm bridging the gap between hardware and software to create groundbreaking solutions.
 
 🔧 Mechanical Engineering: Bringing physical world insights to the digital realm
 🌐 Web Development: Crafting intuitive and powerful user experiences
-🔬QA MANUAL AND AUTOMATION: Continuously expanding my skill set to build complete, To Deliver scalable applications
 
-Currently honing my skills in [Java /Javascript ], I'm not just learning to code – I'm learning to innovate. My goal? To become a software developer who doesn't just follow trends, but sets them.
+Currently honing my skills in  /Javascript ], I'm not just learning to code – I'm learning to innovate. My goal? To become a software developer who doesn't just follow trends, but sets them.
 
 Let's connect and build the future together. The code is the limit! 🚀
 
@@ -23,7 +22,7 @@ Let's connect and build the future together. The code is the limit! 🚀
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Bootstrap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
