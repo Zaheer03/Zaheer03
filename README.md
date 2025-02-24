@@ -4,7 +4,7 @@ Hi 👋 My name is SHAIK MOHAMMED ZAHEER
 Progress In Learning of Full Stack Devlopment
 ---------------
 
-🚀 Mechanical Engineering Graduate | Certified In Web Design | Future Tech Innovator
+🚀 Mechanical Engineering Graduate | Certified In Web Design | Full-Stack Developer
 
 Driven by an insatiable curiosity and a passion for pushing boundaries, I'm on a mission to revolutionize the digital landscape. With a solid foundation in growing expertise in Full-Stack  Development, I'm bridging the gap between hardware and software to create groundbreaking solutions.
 
@@ -17,6 +17,7 @@ Let's connect and build the future together. The code is the limit! 🚀
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [smohammedzaheer0323@gmail.com](mailto:smohammedzaheer032@gmail.com)
+* 🖥️  See my portfolio at (Coming Soon)
 ### Skills
 
 <p align="left">
@@ -29,7 +30,12 @@ Let's connect and build the future together. The code is the limit! 🚀
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Zaheer03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/itsmohdzaheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/itsmohdzaheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://www.github.com/Zaheer03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/itsmohdzaheer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://x.com/iamzaheershaik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/mohammed-zaheer-80212b338/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
