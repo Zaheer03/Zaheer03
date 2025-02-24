@@ -17,8 +17,6 @@ Let's connect and build the future together. The code is the limit! 🚀
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [smohammedzaheer0323@gmail.com](mailto:smohammedzaheer032@gmail.com)
-* 🧠  In Process of Learning QA and Manual & Automation testing
-
 ### Skills
 
 <p align="left">
